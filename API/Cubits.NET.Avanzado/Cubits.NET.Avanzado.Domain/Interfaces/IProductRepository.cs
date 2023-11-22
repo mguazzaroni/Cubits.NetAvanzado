@@ -8,7 +8,7 @@ namespace Cubits.NET.Avanzado.Domain.Interfaces
 
         Product? Get(int id);
 
-        void Create(Product user);
+        void Create(Product product);
 
         Product Update();
 
